@@ -34,4 +34,14 @@
   <ItemGroup>
     <Compile Remove="2 -Domain\Model\User\Entity.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="mono_crash.42f6ec106.0.json" />
+    <Content Remove="mono_crash.42f6ec106.1.json" />
+    <Content Remove="mono_crash.42f6ec106.2.json" />
+    <Content Remove="mono_crash.42f6ec106.3.json" />
+    <Content Remove="mono_crash.42f6ec106.0.json" />
+    <Content Remove="mono_crash.42f6ec106.1.json" />
+    <Content Remove="mono_crash.42f6ec106.2.json" />
+    <Content Remove="mono_crash.42f6ec106.3.json" />
+  </ItemGroup>
 </Project>
